@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
+
+a{
+color: #FA4542;
+  }
+  a:hover {
+    color: #FF5F5F;
+  }
+  body{
+    background-image: url('../images/ga_background.jpg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Lato', sans-serif;
+  }
+  #top-brand {
+    width: 200px;
+  }
+  #tiny-brand {
+    height: 18px;
+  }
+  main {
+    background-color: #F6F6F6;
+    border: 2px solid black;
+    padding: 20px;
+    padding-bottom: 40px;
+    width: 70%;
+    margin: 40px auto;
+  }
+
+  li {
+    color: #FF5F5F;
+  }
+
+  .list-item {
+    color: black;
+    font-weight: bold;
+
+  }
